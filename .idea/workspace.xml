@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a2223d7-be61-4578-b70d-3832e037e944" name="Default Changelist" comment="" />
+    <list default="true" id="2a2223d7-be61-4578-b70d-3832e037e944" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LopVaDoiTuong/BaiTap/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LopVaDoiTuong/BaiTap/FanReal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LopVaDoiTuong/BaiTap/GiaiBac2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LopVaDoiTuong/BaiTap/PhuongTrinhBac2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LopVaDoiTuong/ThucHanh/Ex14_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LopVaDoiTuong/ThucHanh/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LopVaDoiTuong/ThucHanh/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LopVaDoiTuong/ThucHanh/Student9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MangVaPhuongThuc/BaiTap/DemKiTuTrongChuoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MangVaPhuongThuc/BaiTap/GopMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MangVaPhuongThuc/BaiTap/MaxMangHaiChieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MangVaPhuongThuc/BaiTap/MinInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MangVaPhuongThuc/BaiTap/ThemPhanTuVaoMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MangVaPhuongThuc/BaiTap/XoaMotPhanTuTrongMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MangVaPhuongThuc/ThucHanh/ChuongTrinhChuyenDoiNhietDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MangVaPhuongThuc/ThucHanh/DaoNguocPhanTuCuaMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MangVaPhuongThuc/ThucHanh/DemSoSInhVienThiDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MangVaPhuongThuc/ThucHanh/MangHaiChieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MangVaPhuongThuc/ThucHanh/MaxInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MangVaPhuongThuc/ThucHanh/PhuongThucMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MangVaPhuongThuc/ThucHanh/SapXepMangMotChieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NgonNguLapTrinhJava/BaiTap/ChuyenDoiTienTe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NgonNguLapTrinhJava/BaiTap/HienThiCacLoaiHing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NgonNguLapTrinhJava/BaiTap/HienThiSoNguyenTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NgonNguLapTrinhJava/BaiTap/SntNhapVao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,24 +43,106 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1aCii7DOKvWR65nxgTQaHuEs2yH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/StopWatch-master/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="TinhChiSoCanNang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NgonNguLapTrinhJava.ThucHanh.TinhChiSoCanNang" />
+  <component name="RunManager" selected="Application.FanReal">
+    <configuration name="DemKiTuTrongChuoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MangVaPhuongThuc.BaiTap.DemKiTuTrongChuoi" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NgonNguLapTrinhJava.ThucHanh.*" />
+          <option name="PATTERN" value="MangVaPhuongThuc.BaiTap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex14_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LopVaDoiTuong.ThucHanh.Ex14_1" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LopVaDoiTuong.ThucHanh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FanReal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LopVaDoiTuong.BaiTap.FanReal" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LopVaDoiTuong.BaiTap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GiaiBac2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LopVaDoiTuong.BaiTap.GiaiBac2" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LopVaDoiTuong.BaiTap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LopVaDoiTuong.ThucHanh.MyClass" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LopVaDoiTuong.ThucHanh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student9" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LopVaDoiTuong.ThucHanh.Student9" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LopVaDoiTuong.ThucHanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -41,7 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TinhChiSoCanNang" />
+        <item itemvalue="Application.FanReal" />
+        <item itemvalue="Application.GiaiBac2" />
+        <item itemvalue="Application.Ex14_1" />
+        <item itemvalue="Application.MyClass" />
+        <item itemvalue="Application.DemKiTuTrongChuoi" />
       </list>
     </recent_temporary>
   </component>
@@ -55,29 +170,94 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586246100620</updated>
-      <workItem from="1586246105068" duration="600000" />
+      <workItem from="1586246105068" duration="5438000" />
+      <workItem from="1586308651889" duration="22219000" />
+      <workItem from="1586394915442" duration="14043000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1367" height="165" key="GridCell.Tab.0.bottom" timestamp="1586246773469">
+    <state x="275" y="22" key="#Inspections" timestamp="1586357511733">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="165" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586246773469" />
-    <state width="1367" height="165" key="GridCell.Tab.0.center" timestamp="1586246773469">
+    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1586357511733" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586417188242">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="165" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586246773469" />
-    <state width="1367" height="165" key="GridCell.Tab.0.left" timestamp="1586246773468">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586417188242" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1586443268139">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="165" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586246773468" />
-    <state width="1367" height="165" key="GridCell.Tab.0.right" timestamp="1586246773469">
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586443268139" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586425055088">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="165" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586246773469" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586425055088" />
+    <state width="1367" height="165" key="GridCell.Tab.0.bottom" timestamp="1586443800530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="165" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586443800530" />
+    <state width="1367" height="165" key="GridCell.Tab.0.center" timestamp="1586443800530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="165" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586443800530" />
+    <state width="1367" height="165" key="GridCell.Tab.0.left" timestamp="1586443800529">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="165" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586443800529" />
+    <state width="1367" height="165" key="GridCell.Tab.0.right" timestamp="1586443800530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="165" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586443800530" />
+    <state width="1367" height="210" key="GridCell.Tab.1.bottom" timestamp="1586423767742">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="210" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586423767742" />
+    <state width="1367" height="210" key="GridCell.Tab.1.center" timestamp="1586423767742">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="210" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586423767742" />
+    <state width="1367" height="210" key="GridCell.Tab.1.left" timestamp="1586423767742">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="210" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586423767742" />
+    <state width="1367" height="210" key="GridCell.Tab.1.right" timestamp="1586423767742">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="210" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586423767742" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1586443149743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586443149743" />
+    <state x="359" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1586486087763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586486087763" />
+    <state x="490" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586486218221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="490" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1586486218221" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586358203819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586358203819" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/LopVaDoiTuong/ThucHanh/MyClass.java</url>
+          <line>3</line>
+          <properties field="X" class="LopVaDoiTuong.ThucHanh.MyClass" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
