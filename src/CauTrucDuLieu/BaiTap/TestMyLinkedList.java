@@ -13,10 +13,12 @@ public class TestMyLinkedList {
         Circle circle5 = new Circle("nam", true, 98);
 
         circleMyLikedList.addFirst(circle3);
+        circleMyLikedList.addFirst(circle);
+        circleMyLikedList.addLast(circle4);
         circleMyLikedList.addFirst(circle2);
         circleMyLikedList.addLast(circle1);
         circleMyLikedList.addLast(circle5);
-        circleMyLikedList.remove(3);
+        circleMyLikedList.addFirst(circle5);
         circleMyLikedList.remove(circle3);
 
         for (int i = 0; i < circleMyLikedList.size(); i++) {

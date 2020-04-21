@@ -103,9 +103,51 @@ public class MyLikedList<E> {
                 if (temp.next.data.equals(element)) {
                     temp.next = temp.next.next;
                     numNodes--;
+                    return true;
                 }
             }
-            return true;
+            return false;
         }
+    }
+
+    public MyLikedList<E> clone() {
+        if (numNodes == 0) {
+            throw new NullPointerException("LikedList nay null");
+        }
+        MyLikedList<E> returnLinkedList = new MyLikedList<>();
+
+        Node temp = head;
+
+        returnLinkedList.addFirst((E) temp.data);
+
+        temp = temp.next;
+
+        while (temp != null) {
+            returnLinkedList.addLast((E) temp.data);
+            temp = temp.next;
+        }
+        return returnLinkedList;
+    }
+
+    public boolean constrains(E element) {
+        Node temp = head;
+        while (temp.next != null) {
+            if (temp.data.equals(element)) {
+                return true;
+            }
+            temp = temp.next;
+        }
+        return false;
+    }
+
+    public int indexOf(E element) {
+        Node temp = head;
+        for (int i = 0; i < numNodes; i++) {
+            if (temp.getData().equals(element)) {
+                return i;
+            }
+            temp = temp.next;
+        }
+        return -1;
     }
 }
